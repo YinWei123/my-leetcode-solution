@@ -11,11 +11,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="romanToInt.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="romanToInt.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/romanToInt.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="391">
               <caret line="17" column="9" lean-forward="true" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="longestCommonPrefix.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/longestCommonPrefix.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="322">
+              <caret line="14" column="19" lean-forward="true" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
               <folding />
             </state>
           </provider>
@@ -47,10 +57,11 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/romanToInt.py" />
+        <option value="$PROJECT_DIR$/src/longestCommonPrefix.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="x" value="124" />
     <option name="y" value="36" />
     <option name="width" value="1400" />
@@ -120,7 +131,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="124" y="36" width="1400" height="958" extended-state="1" />
+    <frame x="124" y="36" width="1400" height="958" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24962743" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -163,6 +174,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="391">
           <caret line="17" column="9" lean-forward="true" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/longestCommonPrefix.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="14" column="19" lean-forward="true" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
           <folding />
         </state>
       </provider>
